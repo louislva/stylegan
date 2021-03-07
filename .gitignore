@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+karras2019stylegan-celebahq-1024x1024.pkl
+results/
+targets/
